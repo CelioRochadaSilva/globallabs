@@ -22,6 +22,6 @@ public class JediRepository {
     }
 
     public void add(final Jedi jedi ) {
-        this.add(jedi);
+        this.jedi.add(jedi);
     }
 }
